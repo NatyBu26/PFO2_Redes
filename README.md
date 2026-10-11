@@ -148,3 +148,10 @@ Es adecuado para este proyecto porque:
 - Ofrece transacciones para confirmar los cambios realizados en la base de datos.
 
 Por estas características, SQLite resulta una opción sencilla para una aplicación local de este tamaño.
+
+## Enlaces del proyecto
+
+- [Repositorio en GitHub](https://github.com/NatyBu26/PFO2_Redes).
+- [Página de presentación en GitHub Pages](https://natybu26.github.io/PFO2_Redes/).
+
+GitHub Pages aloja la presentación y la documentación del proyecto. La API Flask y el cliente de consola se ejecutan localmente siguiendo las instrucciones de este README.
